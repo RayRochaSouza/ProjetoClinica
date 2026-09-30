@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: gray;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h1 i {
+  font-style: normal;
+}
+
+ol {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ol a {
+  display: block;
+  padding: 10px;
+  background-color: #fff;
+  color: black;
+  text-decoration: none;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+ol a:hover {
+  background-color: #e5e5e5;
+}
+
+.hero {
+           background-color: orange;
+            background-position: center;
+            padding: 290px 20px;
+        }
